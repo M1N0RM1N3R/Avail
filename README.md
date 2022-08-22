@@ -21,7 +21,3 @@ where `"discord_bot_token"` is your bot user's token from the [Discord Developer
 - Message context menu command with potential team size specification
 - Language localizations
 - Whatever else I haven't thought of
-
-# Version numbering
-This is the first commit of this public repo. The version of this initial commit is 2208.1.
-Release versions are numbered with the year and month in a YYMM format, followed by a serial number. (So 2208.1 is the first release version of August 2022)
